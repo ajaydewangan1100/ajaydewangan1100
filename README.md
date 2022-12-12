@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Logic.
 - 🌱 I’m currently learning Full Stack JavaScript at Ineuron.ai.
 - 💞️ I’m looking to collaborate on Web Development Industry.
-- 📫 reach me in ![Linkedin](https://www.linkedin.com/in/ajaydewangan1100/)
+- 📫 reach me in [Linkedin](https://www.linkedin.com/in/ajaydewangan1100/)
 
 <!---
 ajaydewangan1100/ajaydewangan1100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
