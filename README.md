@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MaterialUI](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=materialui)
 
 ### Blogs 
 [CSS Box Model](https://ajaydewangan.hashnode.dev/css-box-model)
