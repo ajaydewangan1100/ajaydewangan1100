@@ -36,12 +36,12 @@ You can click the Preview link to take a look at your changes.
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=flat-square&logo=netlify)
 ![VSCODE](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
 ![vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
-
-### Familiar
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Familiar
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialui)
 
 ### Blogs 
