@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ### Familiar
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialui)
 
